@@ -33,13 +33,14 @@ Expression | Explicación
 ? | 0 o Uno
 {3} | Numero Exacto
 {3,4} | Rango de Numeros (Minimo, Maximo)
+
 ***
 ***
 >## Conjuntos de Caracteres
 
 Expression | Explicación
 -- | --
-[] | Caracteres dentro de los brackets
+[ ] | Caracteres dentro de los brackets
 [^ ] | Caracteres que NO ESTAN dentro de los brackets
 ***
 ***
